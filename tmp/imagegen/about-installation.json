@@ -1,0 +1,23 @@
+{
+  "mode": "built-in image_gen",
+  "fictional": true,
+  "temporary": true,
+  "replacement": "Replace About and installation photographs with genuine Voltrax photography before launch.",
+  "prompts": {
+    "about": "Use case: photorealistic-natural\nAsset type: temporary About-section website photograph for Voltrax Energy Nigeria Limited; fictional presentation imagery to be replaced with genuine company photography before launch.\nPrimary request: Create a realistic commercial photograph of a knowledgeable young Nigerian energy consultant professionally assisting a Nigerian customer inside a clean solar and electrical-products showroom. Natural helpful and trustworthy interaction: the consultant explains a neatly displayed hybrid inverter while the customer listens with relaxed body language. Solar panels, inverters and lithium batteries arranged neatly in the background.\nStyle: premium realistic commercial photography, authentic skin texture and believable hands and equipment, professional approachable clothing.\nComposition: landscape 4:3, high resolution, balanced medium-wide view of the two people and showroom.\nLighting: clean natural daylight.\nPalette: restrained white, deep navy-blue and electric-blue.\nConstraints: no written text, logos, labels, watermarks, exaggerated poses or futuristic equipment. Maintain consistent realistic commercial photography across all generated images. The website brand should feel professional, dependable, modern and appropriate for the Nigerian market. Do not generate written text because AI-generated text may be inaccurate.",
+    "installation": "Use case: photorealistic-natural\nAsset type: temporary installation photograph for Voltrax Energy Nigeria Limited website; fictional presentation imagery to be replaced with a genuine company photograph before launch.\nPrimary request: A realistic documentary-style commercial photograph of a trained Nigerian solar technician safely checking a professional solar-energy installation on the roof of a modern Nigerian home. Rooftop monocrystalline solar panels are securely mounted in neat aligned rows. One Nigerian technician in clean navy-blue workwear, safety helmet, work gloves and grippy safety boots kneels steadily beside a panel inspecting its mounting bracket. Proper full-body fall-arrest harness with taut secured lanyard visibly connected to a dedicated rated roof anchor behind and above the worker, far from roof edge. Believable modern Nigerian residential architecture and a few palms in background, modern and aspirational.\nComposition: landscape 3:2, high resolution, medium-wide professional photography with worker and array visible.\nLighting: natural daytime sunlight, restrained white, navy-blue, electric-blue palette, realistic proportions, skin and materials.\nConstraints: no written text, company logos, watermarks, unsafe working practices or futuristic equipment. Do not depict work on exposed live cables. Maintain consistent realistic commercial photography across all generated images. The website brand should feel professional, dependable, modern and appropriate for the Nigerian market. Do not generate written text because AI-generated text may be inaccurate."
+  },
+  "qa": "Visually inspected: natural showroom interaction, realistic Nigerian subjects, white/navy/blue palette, no visible text or logos. Installation shows helmet, gloves, safety boots, full harness and connected roof anchor, worker away from edge. About 1448×1086 (4:3), installation 1536×1024 (3:2).",
+  "assets": [
+    {
+      "path": "public/images/generated/about-temporary.png",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "public/images/generated/installation-temporary.png",
+      "width": 1536,
+      "height": 1024
+    }
+  ]
+}

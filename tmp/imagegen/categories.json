@@ -1,0 +1,68 @@
+[
+  {
+    "slug": "solar-panels",
+    "prompt": "Use case: product-mockup\nAsset type: Voltrax Energy Nigeria website category card.\nScene/backdrop: seamless bright white-to-light-grey studio background and floor.\nStyle: realistic premium commercial catalogue product photography, crisp edges, balanced soft studio lighting from upper left, subtle natural contact shadow, restrained white/navy/electric-blue direction where appropriate to real equipment.\nComposition: square 1:1, centered at a slight three-quarter angle, entire product fully visible with generous space around all edges. Camera at product midpoint.\nConstraints: no written text, logos, labels, people, watermarks or decorative objects. No futuristic styling. Maintain consistent realistic commercial photography across all generated images. The website brand should feel professional, dependable, modern and appropriate for the Nigerian market. Do not generate written text because AI-generated text may be inaccurate.\nSubject: One premium monocrystalline solar panel standing upright with a slim silver aluminium frame and realistic dark blue-black photovoltaic cells.",
+    "source": "C:\\Users\\pc\\.codex\\generated_images\\01a10f2d-4be6-7470-9a8d-fa7ff3d5c2f4\\exec-c25ccad5-4994-4e75-a98b-fae3acdebc32.png",
+    "destination": "C:/Users/pc/Desktop/Web-Dev-Agency/VinSolar/public/images/generated/category-solar-panels.png",
+    "mode": "built-in image_gen",
+    "visualQA": "Passed: square, entire subject visible, studio background, realistic proportions, no written labels/logos/people.",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 1363103
+  },
+  {
+    "slug": "inverters",
+    "prompt": "Use case: product-mockup\nAsset type: Voltrax Energy Nigeria website category card.\nScene/backdrop: seamless bright white-to-light-grey studio background and floor.\nStyle: realistic premium commercial catalogue product photography, crisp edges, balanced soft studio lighting from upper left, subtle natural contact shadow, restrained white/navy/electric-blue direction where appropriate to real equipment.\nComposition: square 1:1, centered at a slight three-quarter angle, entire product fully visible with generous space around all edges. Camera at product midpoint.\nConstraints: no written text, logos, labels, people, watermarks or decorative objects. No futuristic styling. Maintain consistent realistic commercial photography across all generated images. The website brand should feel professional, dependable, modern and appropriate for the Nigerian market. Do not generate written text because AI-generated text may be inaccurate.\nSubject: One premium hybrid solar inverter, white and dark navy compact wall-mount style enclosure standing upright, realistic heat-dissipation vents, small unlit blank display and covered connection area; no cables or other products.",
+    "source": "C:\\Users\\pc\\.codex\\generated_images\\01a10f2d-4be6-7470-9a8d-fa7ff3d5c2f4\\exec-e4a2b547-40de-4a43-9373-b18d943f5b16.png",
+    "destination": "C:/Users/pc/Desktop/Web-Dev-Agency/VinSolar/public/images/generated/category-inverters.png",
+    "mode": "built-in image_gen",
+    "visualQA": "Passed: square, entire subject visible, studio background, realistic proportions, no written labels/logos/people.",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 1386438
+  },
+  {
+    "slug": "lithium-batteries",
+    "prompt": "Use case: product-mockup\nAsset type: Voltrax Energy Nigeria website category card.\nScene/backdrop: seamless bright white-to-light-grey studio background and floor.\nStyle: realistic premium commercial catalogue product photography, crisp edges, balanced soft studio lighting from upper left, subtle natural contact shadow, restrained white/navy/electric-blue direction where appropriate to real equipment.\nComposition: square 1:1, centered at a slight three-quarter angle, entire product fully visible with generous space around all edges. Camera at product midpoint.\nConstraints: no written text, logos, labels, people, watermarks or decorative objects. No futuristic styling. Maintain consistent realistic commercial photography across all generated images. The website brand should feel professional, dependable, modern and appropriate for the Nigerian market. Do not generate written text because AI-generated text may be inaccurate.\nSubject: One premium lithium battery energy-storage unit, compact upright rectangular white enclosure, small dark blank screen, believable recessed handles and covered terminals; no cables or other products.",
+    "source": "C:\\Users\\pc\\.codex\\generated_images\\01a10f2d-4be6-7470-9a8d-fa7ff3d5c2f4\\exec-79cb3cd8-e275-4511-9c90-99249628439f.png",
+    "destination": "C:/Users/pc/Desktop/Web-Dev-Agency/VinSolar/public/images/generated/category-lithium-batteries.png",
+    "mode": "built-in image_gen",
+    "visualQA": "Passed: square, entire subject visible, studio background, realistic proportions, no written labels/logos/people.",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 1302174
+  },
+  {
+    "slug": "cctv",
+    "prompt": "Use case: product-mockup\nAsset type: Voltrax Energy Nigeria website category card.\nScene/backdrop: seamless bright white-to-light-grey studio background and floor.\nStyle: realistic premium commercial catalogue product photography, crisp edges, balanced soft studio lighting from upper left, subtle natural contact shadow, restrained white/navy/electric-blue direction where appropriate to real equipment.\nComposition: square 1:1, centered at a slight three-quarter angle, entire product fully visible with generous space around all edges. Camera at product midpoint.\nConstraints: no written text, logos, labels, people, watermarks or decorative objects. No futuristic styling. Maintain consistent realistic commercial photography across all generated images. The website brand should feel professional, dependable, modern and appropriate for the Nigerian market. Do not generate written text because AI-generated text may be inaccurate.\nSubject: A coordinated CCTV security-camera system: two realistic white bullet cameras and one white dome camera with dark glass lenses beside a compact dark recorder. Carefully spaced compact arrangement, fully visible components, plausible proportions.",
+    "source": "C:\\Users\\pc\\.codex\\generated_images\\01a10f2d-4be6-7470-9a8d-fa7ff3d5c2f4\\exec-b993c103-a03c-4351-bc04-c2206939a679.png",
+    "destination": "C:/Users/pc/Desktop/Web-Dev-Agency/VinSolar/public/images/generated/category-cctv.png",
+    "mode": "built-in image_gen",
+    "visualQA": "Passed: square, entire subject visible, studio background, realistic proportions, no written labels/logos/people.",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 1499679
+  },
+  {
+    "slug": "charge-controllers",
+    "prompt": "Use case: product-mockup\nAsset type: Voltrax Energy Nigeria website category card.\nScene/backdrop: seamless bright white-to-light-grey studio background and floor.\nStyle: realistic premium commercial catalogue product photography, crisp edges, balanced soft studio lighting from upper left, subtle natural contact shadow, restrained white/navy/electric-blue direction where appropriate to real equipment.\nComposition: square 1:1, centered at a slight three-quarter angle, entire product fully visible with generous space around all edges. Camera at product midpoint.\nConstraints: no written text, logos, labels, people, watermarks or decorative objects. No futuristic styling. Maintain consistent realistic commercial photography across all generated images. The website brand should feel professional, dependable, modern and appropriate for the Nigerian market. Do not generate written text because AI-generated text may be inaccurate.\nSubject: One premium solar charge controller, compact rectangular enclosure with a blank dark LCD window, realistic ventilation slots and guarded terminal strip along lower edge, practical white and navy casing.",
+    "source": "C:\\Users\\pc\\.codex\\generated_images\\01a10f2d-4be6-7470-9a8d-fa7ff3d5c2f4\\exec-584743ee-655d-4fdb-8599-1bd1536ad7f0.png",
+    "destination": "C:/Users/pc/Desktop/Web-Dev-Agency/VinSolar/public/images/generated/category-charge-controllers.png",
+    "mode": "built-in image_gen",
+    "visualQA": "Passed: square, entire subject visible, studio background, realistic proportions, no written labels/logos/people.",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 1619840
+  },
+  {
+    "slug": "electrical-accessories",
+    "prompt": "Use case: product-mockup\nAsset type: Voltrax Energy Nigeria website category card.\nScene/backdrop: seamless bright white-to-light-grey studio background and floor.\nStyle: realistic premium commercial catalogue product photography, crisp edges, balanced soft studio lighting from upper left, subtle natural contact shadow, restrained white/navy/electric-blue direction where appropriate to real equipment.\nComposition: square 1:1, centered at a slight three-quarter angle, entire product fully visible with generous space around all edges. Camera at product midpoint.\nConstraints: no written text, logos, labels, people, watermarks or decorative objects. No futuristic styling. Maintain consistent realistic commercial photography across all generated images. The website brand should feel professional, dependable, modern and appropriate for the Nigerian market. Do not generate written text because AI-generated text may be inaccurate.\nSubject: A neat compact category arrangement of modern electrical appliances and accessories: a white electric kettle with black handle, a small white tabletop fan, a white UK-type switched extension socket strip with three rectangular-pin sockets, and two LED light bulbs. Products fully visible, realistic sizes and engineering, no visible markings.",
+    "source": "C:\\Users\\pc\\.codex\\generated_images\\01a10f2d-4be6-7470-9a8d-fa7ff3d5c2f4\\exec-5bfef4af-61a0-45b3-97bb-8c2472960bfc.png",
+    "destination": "C:/Users/pc/Desktop/Web-Dev-Agency/VinSolar/public/images/generated/category-electrical-accessories.png",
+    "mode": "built-in image_gen",
+    "visualQA": "Passed: square, entire subject visible, studio background, realistic proportions, no written labels/logos/people.",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 1642419
+  }
+]

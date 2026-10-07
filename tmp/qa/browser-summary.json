@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-06",
+  "fullRun": {
+    "passed": 16,
+    "failed": 0,
+    "browsers": [
+      "Chrome",
+      "Edge",
+      "Firefox",
+      "WebKit"
+    ],
+    "chromeViewports": [
+      [
+        320,
+        568
+      ],
+      [
+        360,
+        800
+      ],
+      [
+        390,
+        844
+      ],
+      [
+        768,
+        1024
+      ],
+      [
+        1024,
+        768
+      ],
+      [
+        1440,
+        900
+      ]
+    ],
+    "includes": [
+      "AA axe audits",
+      "image loading and overflow",
+      "dialog keyboard focus",
+      "filters and empty states",
+      "mobile menu",
+      "static metadata",
+      "image fallback",
+      "reduced motion"
+    ]
+  },
+  "finalHeadingChange": {
+    "passed": 3,
+    "failed": 0,
+    "scope": "Chrome 390x844 and 1440x900 routes plus catalogue keyboard interaction"
+  },
+  "unitTests": {
+    "passed": 25,
+    "failed": 0
+  },
+  "lint": "passed",
+  "previewBuild": "passed",
+  "dependencyAudit": "0 vulnerabilities",
+  "productionBuild": "blocked as designed: client inputs and approvals missing",
+  "liveDeployment": "not run: verified domain and approved content unavailable"
+}

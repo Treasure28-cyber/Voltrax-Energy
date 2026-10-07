@@ -1,0 +1,29 @@
+{
+  "mode": "built-in image_gen",
+  "assets": [
+    {
+      "name": "hero",
+      "path": "public/images/generated/hero.png",
+      "source": "C:/Users/pc/.codex/generated_images/01a10f2d-2c0e-7b42-8060-282bed6e9a29/exec-add6c812-da11-4133-95de-182a54b3e7a1.png",
+      "dimensions": [
+        1586,
+        992
+      ],
+      "prompt": "Use case: ads-marketing. Asset type: Voltrax Energy Nigeria Limited website hero photograph. Generate a high-resolution landscape image with exactly 16:10 aspect ratio. A coordinated realistic product arrangement: one modern monocrystalline solar panel, one premium hybrid inverter, one lithium battery, and a small CCTV camera positioned subtly. Products arranged on the RIGHT half, main focus, realistic construction and correct proportions. A bright modern Nigerian home or business environment far in the softly defocused background. Leave ample clean uncluttered negative space across the LEFT 45 percent for website headline and buttons added later. Clean realistic commercial product photography, professional, dependable and trustworthy; restrained white, deep navy blue and electric blue palette; subtle warm sunlight, no excessive yellow or orange. Real material textures, crisp product details, natural plausible shadows, premium catalog lighting. No text, logos, labels, numbers, prices, watermarks, brand names, clutter, futuristic science-fiction styling or fake certification marks. Maintain consistent realistic commercial photography across all generated images. The website brand should feel professional, dependable, modern and appropriate for the Nigerian market. Do not generate written text because AI-generated text may be inaccurate."
+    },
+    {
+      "name": "social-preview",
+      "path": "public/images/generated/social-preview.png",
+      "source": "C:/Users/pc/.codex/generated_images/01a10f2d-2c0e-7b42-8060-282bed6e9a29/exec-928c99c8-57b1-49b5-94b9-d5197819a188.png",
+      "dimensions": [
+        1730,
+        909
+      ],
+      "prompt": "Use case: ads-marketing. Asset type: premium Voltrax Energy Nigeria Limited social sharing background. Generate a landscape image at 1200 by 630 pixels, aspect ratio 40:21. Realistic premium commercial product photography of one monocrystalline solar panel, one modern hybrid inverter, and one lithium battery arranged professionally on the RIGHT half against a deep navy-blue and electric-blue background. Products must look realistic, correctly proportioned and physically plausible, with clean crisp edges, true solar cell textures, premium white and navy housings and natural shadows. Leave the LEFT 45 percent clean, dark navy and clear for a company logo, headline and website address added later in a design application. Add only subtle warm sunlight and restrained thin geometric energy lines in the background; dependable modern Nigerian energy brand atmosphere. No text, logos, labels, numbers, prices, fake certifications or watermarks. No futuristic sci-fi equipment, excessive orange, clutter or glowing fictional machinery. Maintain consistent realistic commercial photography across all generated images. The website brand should feel professional, dependable, modern and appropriate for the Nigerian market. Do not generate written text because AI-generated text may be inaccurate."
+    }
+  ],
+  "inspection": {
+    "hero": "Realistic products and home; good left copy space. Minor tiny illegible texture/control markings on housings.",
+    "social": "Realistic right-side product arrangement; clean navy left space; no readable text/logos. Native output exceeds requested 1200x630, aspect ratio approximately correct."
+  }
+}
