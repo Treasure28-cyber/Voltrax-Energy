@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="640" viewBox="0 0 800 640" role="img" aria-labelledby="title desc">
+  <title id="title">Product image placeholder</title>
+  <desc id="desc">Development placeholder awaiting an approved product photograph.</desc>
+  <rect width="800" height="640" fill="#eef3f7"/>
+  <path d="M0 500 260 260l160 150 100-88 280 250v68H0Z" fill="#d7e3ec"/>
+  <circle cx="610" cy="150" r="74" fill="#f7c843" opacity=".9"/>
+  <rect x="245" y="180" width="310" height="270" rx="24" fill="#0b243d"/>
+  <path d="M305 240h190v150H305z" fill="#0878d1" opacity=".35"/>
+  <path d="m305 315 58-52 48 43 42-35 42 40v79H305Z" fill="#fff" opacity=".85"/>
+  <text x="400" y="525" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#526273">CLIENT PRODUCT IMAGE REQUIRED</text>
+</svg>

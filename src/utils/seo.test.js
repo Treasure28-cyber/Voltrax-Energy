@@ -1,0 +1,10 @@
+import { describe, expect, it } from 'vitest'
+import { buildStructuredData, buildSeoTags } from './seo'
+const config = { legalName: 'Voltrax Energy Nigeria Limited', domain: 'https://test-business.org', phone: '+2348000000000', address: 'Verified address', approvals: { contacts: true }, social: { facebook: 'https://facebook.com/test', unsafe: 'javascript:alert(1)' } }
+const assets = { favicon: '/favicon.svg', social: '/images/generated/social-preview-1200x630.png' }
+describe('SEO output', () => {
+  it('includes only supplied verified business facts', () => { expect(buildStructuredData({ ...config, approvals: {} })).toBeNull(); const data = buildStructuredData(config); expect(data.address).toBe(config.address); expect(data.sameAs).toEqual(['https://facebook.com/test']); expect(data).not.toHaveProperty('aggregateRating'); expect(data).not.toHaveProperty('offers') })
+  it('delivers escaped metadata, route canonical and social image without JS', () => { const html = buildSeoTags(config, assets, { title: 'Products & Energy', description: '<safe>' }, '/products', false); expect(html).toContain('https://test-business.org/products'); expect(html).toContain('Products &amp; Energy'); expect(html).toContain('&lt;safe&gt;'); expect(html).toContain('social-preview-1200x630.png'); expect(html).toContain('application/ld+json') })
+  it('prevents supplied text from terminating the JSON-LD script', () => { const html = buildSeoTags({ ...config, legalName: '</script><script>alert(1)</script>' }, assets, { title: 'Energy', description: 'Energy' }, '/', false); expect(html).not.toContain('</script><script>'); expect(html).toContain(String.fromCharCode(92) + 'u003c/script>') })
+  it('noindexes previews and omits guessed canonicals', () => { const html = buildSeoTags({ ...config, domain: '' }, assets, { title: 'Preview', description: 'Preview' }, '/', true); expect(html).toContain('noindex, nofollow'); expect(html).not.toContain('canonical'); expect(html).not.toContain('application/ld+json') })
+})

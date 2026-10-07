@@ -1,0 +1,119 @@
+{
+  "brand": "Voltrax Energy Nigeria Limited",
+  "mode": "Built-in image_gen",
+  "status": "AI-generated presentation assets; client approval required",
+  "assets": [
+    {
+      "file": "hero.webp",
+      "placement": "Homepage hero",
+      "ratio": "16:10",
+      "alt": "Illustrative arrangement of solar panel, hybrid inverter, lithium battery and CCTV camera with a modern Nigerian property in the background",
+      "sourcePng": "hero.png",
+      "url": "/images/generated/hero.webp",
+      "width": 1584,
+      "height": 990,
+      "bytes": 161140
+    },
+    {
+      "file": "category-solar-panels.webp",
+      "placement": "Solar Panels category",
+      "ratio": "1:1",
+      "alt": "Illustrative monocrystalline solar panel on a light studio background",
+      "sourcePng": "category-solar-panels.png",
+      "url": "/images/generated/category-solar-panels.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 81894
+    },
+    {
+      "file": "category-inverters.webp",
+      "placement": "Inverters category",
+      "ratio": "1:1",
+      "alt": "Illustrative hybrid inverter on a light studio background",
+      "sourcePng": "category-inverters.png",
+      "url": "/images/generated/category-inverters.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 51298
+    },
+    {
+      "file": "category-lithium-batteries.webp",
+      "placement": "Lithium Batteries category",
+      "ratio": "1:1",
+      "alt": "Illustrative lithium battery on a light studio background",
+      "sourcePng": "category-lithium-batteries.png",
+      "url": "/images/generated/category-lithium-batteries.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 37428
+    },
+    {
+      "file": "category-cctv.webp",
+      "placement": "CCTV Systems category",
+      "ratio": "1:1",
+      "alt": "Illustrative CCTV security camera system on a light studio background",
+      "sourcePng": "category-cctv.png",
+      "url": "/images/generated/category-cctv.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 81882
+    },
+    {
+      "file": "category-charge-controllers.webp",
+      "placement": "Charge Controllers category",
+      "ratio": "1:1",
+      "alt": "Illustrative solar charge controller on a light studio background",
+      "sourcePng": "category-charge-controllers.png",
+      "url": "/images/generated/category-charge-controllers.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 106500
+    },
+    {
+      "file": "category-electrical-accessories.webp",
+      "placement": "Electrical Appliances category",
+      "ratio": "1:1",
+      "alt": "Illustrative electrical appliances and accessories on a light studio background",
+      "sourcePng": "category-electrical-accessories.png",
+      "url": "/images/generated/category-electrical-accessories.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 105370
+    },
+    {
+      "file": "about-temporary.webp",
+      "placement": "About section presentation only",
+      "ratio": "4:3",
+      "alt": "AI-generated illustration of a Nigerian consultant helping a customer in a solar showroom",
+      "replaceBeforeLaunch": true,
+      "sourcePng": "about-temporary.png",
+      "url": "/images/generated/about-temporary.webp",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 202408
+    },
+    {
+      "file": "installation-temporary.webp",
+      "placement": "Services or trust presentation only; installation offering unconfirmed",
+      "ratio": "3:2",
+      "alt": "AI-generated illustration of a Nigerian technician checking rooftop solar panels",
+      "replaceBeforeLaunch": true,
+      "sourcePng": "installation-temporary.png",
+      "url": "/images/generated/installation-temporary.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 260994
+    },
+    {
+      "file": "social-preview-1200x630.webp",
+      "placement": "Social sharing background; add approved logo and copy separately",
+      "ratio": "1200:630",
+      "alt": "Illustrative solar panel, inverter and battery arrangement on a navy and electric blue background",
+      "sourcePng": "social-preview.png",
+      "url": "/images/generated/social-preview-1200x630.webp",
+      "width": 1200,
+      "height": 630,
+      "bytes": 57728
+    }
+  ]
+}

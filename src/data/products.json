@@ -1,0 +1,140 @@
+[
+  {
+    "id": "demo-solar-panel",
+    "slug": "demo-solar-panel",
+    "name": "Solar Panel",
+    "category": "Solar Panels",
+    "brand": "",
+    "price": null,
+    "priceLabel": "Pricing to be confirmed",
+    "currency": "NGN",
+    "image": "/images/generated/category-solar-panels.webp",
+    "imageAlt": "AI-generated illustration of solar panel; not an actual stock photograph",
+    "shortDescription": "Generate electricity from sunlight.",
+    "description": "Solar panels convert sunlight into electricity for solar power systems. This sample illustrates the category; final models and specifications are still being prepared.",
+    "specifications": [],
+    "available": false,
+    "featured": true,
+    "keywords": [
+      "solar",
+      "panel",
+      "photovoltaic"
+    ],
+    "demo": true
+  },
+  {
+    "id": "demo-hybrid-inverter",
+    "slug": "demo-hybrid-inverter",
+    "name": "Hybrid Inverter",
+    "category": "Inverters",
+    "brand": "",
+    "price": null,
+    "priceLabel": "Pricing to be confirmed",
+    "currency": "NGN",
+    "image": "/images/generated/category-inverters.webp",
+    "imageAlt": "AI-generated illustration of hybrid inverter; not an actual stock photograph",
+    "shortDescription": "Convert power for use in homes and businesses.",
+    "description": "Inverters convert stored or generated power for use by electrical equipment. This sample illustrates the category; final models and specifications are still being prepared.",
+    "specifications": [],
+    "available": null,
+    "featured": true,
+    "keywords": [
+      "inverter",
+      "hybrid",
+      "solar power"
+    ],
+    "demo": true
+  },
+  {
+    "id": "demo-lithium-battery",
+    "slug": "demo-lithium-battery",
+    "name": "Lithium Battery",
+    "category": "Lithium Batteries",
+    "brand": "",
+    "price": null,
+    "priceLabel": "Pricing to be confirmed",
+    "currency": "NGN",
+    "image": "/images/generated/category-lithium-batteries.webp",
+    "imageAlt": "AI-generated illustration of lithium battery; not an actual stock photograph",
+    "shortDescription": "Store energy for backup and later use.",
+    "description": "Lithium batteries store energy for use when it is needed. This sample illustrates the category; final models, capacities and specifications are still being prepared.",
+    "specifications": [],
+    "available": null,
+    "featured": true,
+    "keywords": [
+      "battery",
+      "lithium",
+      "storage"
+    ],
+    "demo": true
+  },
+  {
+    "id": "demo-cctv-camera",
+    "slug": "demo-cctv-camera",
+    "name": "CCTV Camera",
+    "category": "CCTV Systems",
+    "brand": "",
+    "price": null,
+    "priceLabel": "Pricing to be confirmed",
+    "currency": "NGN",
+    "image": "/images/generated/category-cctv.webp",
+    "imageAlt": "AI-generated illustration of cctv camera; not an actual stock photograph",
+    "shortDescription": "Camera equipment for property monitoring.",
+    "description": "Explore camera equipment for monitoring homes and business premises. This sample illustrates the category; final models and specifications are still being prepared.",
+    "specifications": [],
+    "available": null,
+    "featured": true,
+    "keywords": [
+      "cctv",
+      "camera",
+      "security"
+    ],
+    "demo": true
+  },
+  {
+    "id": "demo-charge-controller",
+    "slug": "demo-charge-controller",
+    "name": "Charge Controller",
+    "category": "Charge Controllers",
+    "brand": "",
+    "price": null,
+    "priceLabel": "Pricing to be confirmed",
+    "currency": "NGN",
+    "image": "/images/generated/category-charge-controllers.webp",
+    "imageAlt": "AI-generated illustration of charge controller; not an actual stock photograph",
+    "shortDescription": "Manage charging in solar power systems.",
+    "description": "Charge controllers regulate charging between solar panels and batteries. This sample illustrates the category; final ratings and compatibility details are still being prepared.",
+    "specifications": [],
+    "available": null,
+    "featured": false,
+    "keywords": [
+      "controller",
+      "charge",
+      "solar"
+    ],
+    "demo": true
+  },
+  {
+    "id": "demo-electrical-supply",
+    "slug": "demo-electrical-supply",
+    "name": "Electrical Supply",
+    "category": "Electrical Appliances",
+    "brand": "",
+    "price": null,
+    "priceLabel": "Pricing to be confirmed",
+    "currency": "NGN",
+    "image": "/images/generated/category-electrical-accessories.webp",
+    "imageAlt": "AI-generated illustration of electrical supply; not an actual stock photograph",
+    "shortDescription": "Electrical essentials for everyday use.",
+    "description": "Explore electrical appliances and everyday supplies for homes and businesses. This sample illustrates the category; final individual products and specifications are still being prepared.",
+    "specifications": [],
+    "available": null,
+    "featured": false,
+    "keywords": [
+      "electrical",
+      "appliance",
+      "supply"
+    ],
+    "demo": true
+  }
+]
