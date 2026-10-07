@@ -1,5 +1,7 @@
 [build]
-  command = "npm run build"
+  # Publish the review site until the approved launch content is supplied.
+  # Switch to "npm run build" for the final production launch.
+  command = "npm run build:preview"
   publish = "dist"
 
 [[redirects]]
